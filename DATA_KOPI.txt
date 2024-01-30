@@ -1,0 +1,5 @@
+1 Solo Espresso 17000
+2 Machiatto 20000
+3 Americano 25000
+4 Capuccino 25000
+5 Mocha 30000 
